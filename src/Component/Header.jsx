@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import About from '../Pages/About';
 import Projects from '../Pages/Projects';
-import Resume from '../Pages/Resume';
 import Photos from '../Pages/Photos';
 import Poetry from '../Pages/Poetry';
 import Contact from '../Pages/Contact';
