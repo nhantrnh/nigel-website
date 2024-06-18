@@ -30,7 +30,7 @@ export default function Header({setdarkMode, darkMode}) {
     }, []);
     
     return (
-        <header class={`bg-blue-950 text-lg w-full h-12 text-white text-center sticky top-0 z-50 flex items-center justify-center dark:bg-black ${isScrolling ? 'bg-opacity-90' : ''}`}>
+        <header className={`bg-gradient-to-r from-sky-900 to-emerald-800 text-xl w-full h-16 text-white text-center sticky top-0 z-50 flex items-center justify-center dark:bg-gradient-to-r dark:from-black dark:to-black ${isScrolling ? 'bg-opacity-75' : ''}`}>
             <Link to="/" class="p-10 m-5 hover:scale-110" style={{ textDecoration: 'none', color: 'inherit' }}>
                 Home
             </Link>
@@ -43,7 +43,7 @@ export default function Header({setdarkMode, darkMode}) {
             <button to="/interest" class="p-10 m-5 hover:scale-110"  onClick={()=> setShow(!show)} onMouseEnter={()=>setShow(true)}  onMouseLeave={()=>setShow(false)}>
                 Interest
                 {show && (
-                    <div className="absolute bg-white divide-y divide-gray-100 rounded-lg shadow-lg text-sm mb-2 text-blue-950 dark:bg-black dark:border-2">
+                    <div className="absolute bg-white divide-y divide-gray-100 rounded-lg shadow-lg text-lg mb-2 text-blue-950 dark:bg-black dark:border-2">
                         <div >
                             <div class="p-2 hover:scale-110 dark:text-white">
                                 <Link to="/photos" >Photos</Link>

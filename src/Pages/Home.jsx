@@ -75,7 +75,7 @@ export default function Home() {
                 </div>
             </div> 
             
-            <div class="p-5 flex lg:px-48 px-20 items-center justify-center  ">
+            <div class="p-4 flex lg:px-48 px-20 pb-12 items-center justify-center  ">
                 <div class="w-2/3 px-3">
                     <div>
                         <h1 class="text-4xl font-bold text-center dark:text-white">Introduce Myself</h1>
@@ -87,12 +87,12 @@ export default function Home() {
                             I am always curious about new things and always willing to learn new knowledge.
                             Hope to bring you interesting things and the opportunity to work together in the future.
                         </p>
-                        <Link to="/about" class="text-blue-950 font-bold  dark:text-white underline">Know more about me</Link>
+                        <Link to="/about" class="text-blue-950 font-bold dark:text-white underline">Know more about me</Link>
                     </div>
                 </div>
 
                 <div className="w-1/3">
-                    <img src={pepe} alt="" className="h-full w-80 transition-all duration-300 ease-in-out "/>
+                    <img src={pepe} alt="" className="h-full w-72 transition-all duration-300 ease-in-out "/>
                 </div>
                 
 
