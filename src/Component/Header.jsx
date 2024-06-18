@@ -12,7 +12,7 @@ export default function Header() {
     const [show, setShow] = useState(false);
 
     return (
-        <header class=" bg-black w-full h-12 text-white text-center">
+        <header class="bg-black w-full h-12 text-white text-center sticky top-0 z-50 flex items-center justify-center">
             <Link to="/" class="p-3 m-3" style={{ textDecoration: 'none', color: 'inherit' }}>
                 Home
             </Link>

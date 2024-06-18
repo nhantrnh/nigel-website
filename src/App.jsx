@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import React from 'react';
 import IndexRoute from './Routes/IndexRoute';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
@@ -7,7 +6,7 @@ import Footer from './Component/Footer';
 function App() {
   return (
     <Router>
-    <div className="bg-blue-950 bg-opacity-80">
+    <div className="bg-white bg-opacity-80">
       <Header />
       <IndexRoute />
       <Footer />
