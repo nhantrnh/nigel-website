@@ -8,11 +8,11 @@ import Photos from '../Pages/Photos';
 import Poetry from '../Pages/Poetry';
 import Contact from '../Pages/Contact';
 
-export default function IndexRoute() {
+export default function IndexRoute({darkMode}) {
     return (
         <Routes>
             {/* Public */}
-            <Route path='/' element={<Home/>} />
+            <Route path='/' element={<Home darkMode={darkMode}/>} />
             <Route path='/about' element={<About/>} />
             <Route path='/projects' element={<Projects/>} />
             <Route path='/resume' element={<Resume/>} />

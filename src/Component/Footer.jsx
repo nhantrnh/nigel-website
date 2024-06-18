@@ -11,19 +11,8 @@ import Contact from '../Pages/Contact';
 export default function Footer() {
 
     return (
-        <footer class=" bg-black w-full h-20 bottom-0 left-0 right-0 text-white">
-            <Link to="/" class="p-3 m-3" style={{ textDecoration: 'none', color: 'inherit' }}>
-                Home
-            </Link>
-            <Link to="/about" class="p-3 m-3" >
-                About
-            </Link>
-            <Link to="/projects" class="p-3 m-3" >
-                Projects
-            </Link>
-            <Link to="/contact" class="p-3 m-3" >
-                Contact
-            </Link>
+        <footer class="bg-blue-950 w-full h-12 text-lg text-white text-center justify-center pt-2 dark:bg-black dark:bg-opacity-90 dark:text-white dark:border-t-2">
+                © 2024 Truong Thanh Nhan
         </footer>
     );
 }
