@@ -12,7 +12,7 @@ export default function Footer() {
 
     return (
         <footer class="bg-blue-950 w-full h-12 text-lg text-white text-center justify-center pt-2 dark:bg-black dark:bg-opacity-90 dark:text-white dark:border-t-2">
-                © 2024 Truong Thanh Nhan
+                © 2024
         </footer>
     );
 }
