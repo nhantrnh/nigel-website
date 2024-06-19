@@ -92,8 +92,8 @@ export const Poems = [
                 của những ngày bên nhau lúc trước
                 của những điều ta từng mong ước
                 đã đập tan bao nỗi cô liêu.
-                chú hót về chuyện tình yêu
 
+                chú hót về chuyện tình yêu
                 nồng nàn và đầy nhiệt huyết,
                 dẫu có bao nhiêu nuối tiếc
                 vẫn dốc lòng để có được tình em.
@@ -169,5 +169,156 @@ export const Poems = [
             Uống cho quên hết đắng cay cuộc đời.
             Đêm về với nỗi chơi vơi
             "Em không còn nữa, cuộc đời là chi?" `
+    },
+    {
+        title: "GIÓ",
+        date: "31/05/2022",
+        img: "https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/285239358_184188580632542_599215789213207315_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEy9Tahe33Lxm9X5MJZhVDqUG_3eFyuSptQb_d4XK5Km_EjxlIvthly4BUAMocFOsBKwz8IBwNoeKMMMk8ytZW8&_nc_ohc=VfpbciIf9ewQ7kNvgF2zpP1&_nc_ht=scontent.fsgn5-15.fna&oh=00_AYA8xDgeRKmqjeWX1WFLIsrhaR_4gZj5Te2jd5tFDav2xw&oe=66788484",
+        scripts: `Đêm khuya tĩnh lặng, trăng đi trốn,
+Gió kia ở lại, chốn trần gian.
+Bên hiên, lặng lẽ, tiếng đàn,
+Nhớ về thời trẻ, tình tang tang tình.
+
+Người cùng gió “thổi” bóng hình,
+Thổi thêm một chút ân tình chưa phai.
+Người mơ tay nắm bàn tay,
+Giữ nhau thật chặt, mai này chẳng xa.
+
+Gió đưa người trở về “nhà”
+Về ngày xưa ấy, chỉ ta với người.
+Đã vui, đã khóc, đã cười,
+Đau thương, phiền muộn cũng lười đến thăm.
+
+Gió đưa người trở về nằm
+Trong vòng tay mẹ, thì thầm lời ru.
+Gió đưa người buổi cuối thu,
+Tay gom từng lá rơi khu xóm chiều.
+
+Gió đưa người những cánh diều,
+Thổi bay đi mất tình yêu đầu đời.
+Gió đưa người những cuộc chơi,
+Người rơi vào những chơi vơi cuộc tình.
+
+Gió đưa người buổi bình minh,
+Ngắm nhìn nhân thế, nhục vinh, sang hèn.
+Gió đưa người buổi tối đèn,
+Thắp lên ngọn nến, không ghen không hờn.
+
+Gió đưa người nỗi cô đơn,
+Giật mình tỉnh giấc, sầu vờn bóng lưng.
+Người buồn lệ cứ rưng rưng,
+Nhớ về thời trẻ, người từng đậm sâu.`
+
+    },
+    {
+        title: "CHUYỆN CHÚNG TA",
+        date: "11/06/2022",
+        img: "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/285646598_186311890420211_3311620399601144265_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHgk7KamzAbUWzMfcWGTdYMaqHi0l7LtpZqoeLSXsu2lsXwICE6ozBWfKdJoewFQWJfXPMwqceJOZ-s-Um3paAs&_nc_ohc=UkGmzCd-HLIQ7kNvgEjwjiH&_nc_ht=scontent.fsgn5-10.fna&oh=00_AYAIo5R1V0Xq_PiPE-VB9wCFWw-86R0IknO-64cYCZhS-w&oe=66789C05",
+        scripts: `chuyện chúng ta, chuyện của ngày xưa,
+thuở hồn nhiên, chẳng chứa muộn phiền.
+tin rằng niềm vui bất biến,
+ôm bao mong ước, bình yên trong lòng.
+
+chuyện chúng ta, chuyện bỗng tan tành,
+những vết thương chẳng lành khi lớn.
+đau buồn quặn siết từng cơn,
+mỗi khi đêm đến, sầu vờn bóng lưng.
+
+chuyện chúng ta, chuyện những người con,
+giờ đã lớn, chẳng còn nhỏ nữa.
+bao nhiêu cố gắng cho vừa
+để được nhìn thấy nụ cười mẹ cha.
+
+chuyện chúng ta, chuyện đã không thành,
+từng ký ức, mong manh vụn vỡ.
+người ơi, sao người lại nỡ
+quên hết tình mình, bỏ lỡ đời nhau?
+
+chuyện chúng ta, thế nào đi nữa
+vẫn sẽ là một nửa chưa tròn.
+gặp nhau những lúc héo hon,
+yêu thương, ấm áp - mầm non đ.â.m chồi.`
+    },
+    {
+        title: "XIN",
+        date: "14/10/2022",
+        img: "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/311785201_209580451426688_1038078630068692483_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGxpl2NdHAGgAO7xzxsF6MsBWEI660JG_sFYQjrrQkb-3IKKWSRrOi8kNfVEdQFJw-s4HeFEdmrtimDJQ8pE04r&_nc_ohc=88oEQLedMKsQ7kNvgEWqFF3&_nc_ht=scontent.fsgn5-12.fna&oh=00_AYA50Il5oc82DTR6CZupf-57-OXsw2aPzjNAXUug4M8IwA&oe=66789796",
+        scripts: `xin em một chút tình nồng,
+cho tim loạn nhịp, cho lòng xuyến xao.
+xin em nỗi nhớ dạt dào,
+ôm em, ôm cả đời nhau mai này.
+
+xin em một chút tình say,
+cho mi chẳng ướt, cho tay chẳng rời.
+xin em một nỗi chơi vơi,
+nhớ em, nhớ những ngày trời mưa ngâu.
+
+xin đừng gieo nỗi tình sầu,
+lòng anh, thắt lại, niềm đau, vô vàn.
+xin đừng gieo nỗi tình tan,
+xa em, anh lạc, trần gian, ai chờ?` 
+    },
+    {
+        title: "VIẾT",
+        date: "27/07/2023",
+        img: "https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/362948116_313975650987167_6037815055827779089_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGdVDxzLvevqJGvM6d3xZQ75ahs9N_wpnHlqGz03_CmcdQy_admH4L9_GoBKNx0edQMD2Z9Y-ijWiv_UH9MpSba&_nc_ohc=WyGONM0OvOYQ7kNvgH7zBJ8&_nc_ht=scontent.fsgn5-15.fna&oh=00_AYC1Ge5GlP1TlSQgfbU_N9JIlxREmbymX0UnOVBKV7DHHA&oe=6678916A",
+        scripts: `ta viết cho cuộc đời
+niềm vui dần biến mất,
+tựa hoa quỳnh thơm ngát
+vội tàn khi nắng rơi.
+
+ta viết cho cuộc đời
+nỗi buồn đầy da diết,
+tựa trời cao xanh biếc
+khiến lòng mình chơi vơi.
+
+ta viết cho cuộc đời
+niềm tin ở trong ta,
+tựa cơn mưa mùa hạ
+tắm mát đồng xanh tươi.
+
+ta viết cho cuộc đời
+hồi ức còn sót lại
+của những ngày khờ dại,
+ta mặc đời, rong chơi.
+
+ta viết riêng cho người
+tình yêu vừa chớm nở,
+dẫu biết tình dang dở
+vẫn nghĩ về khôn nguôi.`
+    },
+    {
+        title: "ÁNH TRĂNG",
+        date: "01/12/2023",
+        img: "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/406805962_379697034415028_420288094681279123_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEIj2V4TkfqWFUKzxT9-cLdOWnkFH--blw5aeQUf75uXNiX0TzGeAXa-Lp0VrOYBfwqcMWCFcQNEytSiTsHLwjp&_nc_ohc=HFTEdbL_zAwQ7kNvgGSsvLy&_nc_ht=scontent.fsgn5-10.fna&oh=00_AYDtUBikroWg9S3CS47PN3V7AQjbUVKTXYdWv9tMxbeHPg&oe=667888CC",
+        scripts: `Sao trong đêm, khẽ khàng chớp mắt,
+Trăng cuối thu, tích tắc buông mình.
+Tôi bên sông đứng lặng nhìn,
+Dưới vầng trăng sáng - bóng hình quê hương.
+
+Ánh trăng soi con đường vào xóm,
+Bóng cụ già lọm khọm gánh hàng.
+"Mong đàn con được bình an,
+Vượt qua nghịch cảnh gian nan cuộc đời".
+
+Ánh trăng soi về nơi bãi vắng,
+Gã say men nằm mắng chửi đời.
+Bao nhiêu cảm xúc rối bời,
+Biết làm sao để cho vơi ưu phiền?
+
+Ánh trăng soi con thuyền bến cũ,
+Đôi tình nhân, nhắn nhủ cùng nhau.
+“Dẫu cho hiện tại, mai sau,
+Chia ly, cách biệt, bể dâu, vẫn chờ.”
+
+Ánh trăng soi bên bờ kênh cạn,
+Đám trẻ con kết bạn, nô đùa.
+Trăng thanh, gió mát cuối mùa,
+Niềm vui giản dị, chẳng mua bằng tiền.
+
+Ánh trăng mãi lặng yên, chẳng nói,
+Suốt bao năm, soi rọi quê mình.
+Người, trăng đầy ấp nghĩa tình,
+Âm thầm chung sống, yên bình bên nhau.`
     }
 ];
