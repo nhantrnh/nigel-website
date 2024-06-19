@@ -17,7 +17,7 @@ function App() {
   return (
      
     <Router>
-    <div className="bg-gradient-to-r from-sky-800 to-emerald-700">
+    <div className="bg-gradient-to-r from-sky-800 to-emerald-700 dark:bg-black">
       <Header 
         darkMode={darkMode}
         setdarkMode={setdarkMode} 
